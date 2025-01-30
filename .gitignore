@@ -1,0 +1,15 @@
+/0.8.9
+/0.9.53
+/1.0.3.5
+/1.1.0
+/1.21.0
+/1.3.0
+/4.5.0
+/8.0.0
+/config.py
+/data
+/gaze_mouse_env
+/models
+/shape_predictor_68_face_landmarks.dat
+/yolov8n.pt
+/__pycache__

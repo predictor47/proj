@@ -1,0 +1,684 @@
+Avg Latency (YOLO): 214.98 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 8994.85
+
+Avg Latency (YOLO): 197.95 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 5366.79
+
+Avg Latency (YOLO): 184.49 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 4303.02
+
+Avg Latency (YOLO): 180.77 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 3296.33
+
+Avg Latency (YOLO): 178.30 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 2673.90
+
+Avg Latency (YOLO): 173.53 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 2387.41
+
+Avg Latency (YOLO): 170.33 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 2128.34
+
+Avg Latency (YOLO): 169.72 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 1865.55
+
+Avg Latency (YOLO): 168.54 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 1402.86
+
+Avg Latency (YOLO): 165.52 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 1246.21
+
+Avg Latency (YOLO): 164.08 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 1188.31
+
+Avg Latency (YOLO): 164.51 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 1112.00
+
+Avg Latency (YOLO): 164.41 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 1042.65
+
+Avg Latency (YOLO): 163.49 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 996.43
+
+Avg Latency (YOLO): 161.79 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 920.46
+
+Avg Latency (YOLO): 161.13 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 883.60
+
+Avg Latency (YOLO): 160.50 ms
+Accuracy (YOLO): 95.65%
+Movement Variance: 810.86
+
+Avg Latency (YOLO): 161.97 ms
+Accuracy (YOLO): 95.83%
+Movement Variance: 827.79
+
+Avg Latency (YOLO): 175.43 ms
+Accuracy (YOLO): 92.31%
+Movement Variance: 3114.50
+
+Avg Latency (YOLO): 184.07 ms
+Accuracy (YOLO): 89.29%
+Movement Variance: 3955.16
+
+Avg Latency (YOLO): 191.48 ms
+Accuracy (YOLO): 89.66%
+Movement Variance: 5403.40
+
+Avg Latency (YOLO): 191.29 ms
+Accuracy (YOLO): 90.00%
+Movement Variance: 5218.06
+
+Avg Latency (YOLO): 201.02 ms
+Accuracy (YOLO): 90.32%
+Movement Variance: 7974.61
+
+Avg Latency (YOLO): 200.11 ms
+Accuracy (YOLO): 90.62%
+Movement Variance: 7743.59
+
+Avg Latency (YOLO): 206.65 ms
+Accuracy (YOLO): 90.91%
+Movement Variance: 8910.82
+
+Avg Latency (YOLO): 205.08 ms
+Accuracy (YOLO): 91.18%
+Movement Variance: 8724.49
+
+Avg Latency (YOLO): 204.04 ms
+Accuracy (YOLO): 91.43%
+Movement Variance: 8505.28
+
+Avg Latency (YOLO): 203.21 ms
+Accuracy (YOLO): 91.67%
+Movement Variance: 8287.51
+
+Avg Latency (YOLO): 203.43 ms
+Accuracy (YOLO): 89.47%
+Movement Variance: 7872.64
+
+Avg Latency (YOLO): 202.67 ms
+Accuracy (YOLO): 89.74%
+Movement Variance: 7687.83
+
+Avg Latency (YOLO): 509.58 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 0.00
+
+Avg Latency (YOLO): 357.80 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 46073.98
+
+Avg Latency (YOLO): 309.16 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 30134.24
+
+Avg Latency (YOLO): 281.34 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 23184.79
+
+Avg Latency (YOLO): 264.30 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 18840.22
+
+Avg Latency (YOLO): 253.40 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 15785.38
+
+Avg Latency (YOLO): 247.47 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 13400.75
+
+Avg Latency (YOLO): 246.02 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 11503.19
+
+Avg Latency (YOLO): 241.34 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 10262.54
+
+Avg Latency (YOLO): 238.49 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 9203.23
+
+Avg Latency (YOLO): 234.71 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 8440.25
+
+Avg Latency (YOLO): 232.39 ms
+Accuracy (YOLO): 100.00%
+Movement Variance: 7737.48
+
+Avg Latency (YOLO): 228.11 ms
+Accuracy (YOLO): 92.86%
+Movement Variance: 6665.17
+
+Avg Latency (YOLO): 225.77 ms
+Accuracy (YOLO): 87.50%
+Movement Variance: 5820.13
+
+Avg Latency (YOLO): 224.01 ms
+Accuracy (YOLO): 88.24%
+Movement Variance: 5508.93
+
+Avg Latency (YOLO): 222.90 ms
+Accuracy (YOLO): 88.89%
+Movement Variance: 5207.39
+
+Avg Latency (YOLO): 223.37 ms
+Accuracy (YOLO): 89.47%
+Movement Variance: 4922.33
+
+Avg Latency (YOLO): 222.94 ms
+Accuracy (YOLO): 90.00%
+Movement Variance: 4666.86
+
+Avg Latency (YOLO): 223.46 ms
+Accuracy (YOLO): 90.48%
+Movement Variance: 4439.20
+
+Avg Latency (YOLO): 222.76 ms
+Accuracy (YOLO): 90.91%
+Movement Variance: 4238.61
+
+Avg Latency (YOLO): 222.29 ms
+Accuracy (YOLO): 91.30%
+Movement Variance: 4051.10
+
+Avg Latency (YOLO): 221.77 ms
+Accuracy (YOLO): 91.67%
+Movement Variance: 3881.38
+
+Avg Latency (YOLO): 220.98 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 3735.48
+
+Avg Latency (YOLO): 220.78 ms
+Accuracy (YOLO): 92.31%
+Movement Variance: 3587.06
+
+Avg Latency (YOLO): 220.82 ms
+Accuracy (YOLO): 92.59%
+Movement Variance: 3449.14
+
+Avg Latency (YOLO): 220.18 ms
+Accuracy (YOLO): 92.86%
+Movement Variance: 3332.89
+
+Avg Latency (YOLO): 219.72 ms
+Accuracy (YOLO): 93.10%
+Movement Variance: 3219.95
+
+Avg Latency (YOLO): 219.90 ms
+Accuracy (YOLO): 93.33%
+Movement Variance: 3109.87
+
+Avg Latency (YOLO): 219.58 ms
+Accuracy (YOLO): 90.32%
+Movement Variance: 3009.44
+
+Avg Latency (YOLO): 219.84 ms
+Accuracy (YOLO): 90.62%
+Movement Variance: 2914.51
+
+Avg Latency (YOLO): 219.81 ms
+Accuracy (YOLO): 90.91%
+Movement Variance: 2823.45
+
+Avg Latency (YOLO): 219.76 ms
+Accuracy (YOLO): 91.18%
+Movement Variance: 2738.00
+
+Avg Latency (YOLO): 219.64 ms
+Accuracy (YOLO): 91.43%
+Movement Variance: 2657.90
+
+Avg Latency (YOLO): 219.23 ms
+Accuracy (YOLO): 91.67%
+Movement Variance: 2588.02
+
+Avg Latency (YOLO): 218.93 ms
+Accuracy (YOLO): 92.11%
+Movement Variance: 2450.54
+
+Avg Latency (YOLO): 218.65 ms
+Accuracy (YOLO): 92.31%
+Movement Variance: 2388.93
+
+Avg Latency (YOLO): 218.86 ms
+Accuracy (YOLO): 92.50%
+Movement Variance: 2329.36
+
+Avg Latency (YOLO): 218.98 ms
+Accuracy (YOLO): 92.68%
+Movement Variance: 2271.74
+
+Avg Latency (YOLO): 219.34 ms
+Accuracy (YOLO): 92.86%
+Movement Variance: 2221.60
+
+Avg Latency (YOLO): 219.37 ms
+Accuracy (YOLO): 93.02%
+Movement Variance: 2168.76
+
+Avg Latency (YOLO): 219.25 ms
+Accuracy (YOLO): 93.18%
+Movement Variance: 2119.01
+
+Avg Latency (YOLO): 219.02 ms
+Accuracy (YOLO): 93.33%
+Movement Variance: 2073.24
+
+Avg Latency (YOLO): 218.75 ms
+Accuracy (YOLO): 93.48%
+Movement Variance: 2030.37
+
+Avg Latency (YOLO): 218.65 ms
+Accuracy (YOLO): 93.62%
+Movement Variance: 1986.71
+
+Avg Latency (YOLO): 218.43 ms
+Accuracy (YOLO): 93.75%
+Movement Variance: 1946.85
+
+Avg Latency (YOLO): 218.23 ms
+Accuracy (YOLO): 93.88%
+Movement Variance: 1908.15
+
+Avg Latency (YOLO): 217.72 ms
+Accuracy (YOLO): 94.12%
+Movement Variance: 1838.91
+
+Avg Latency (YOLO): 217.57 ms
+Accuracy (YOLO): 94.23%
+Movement Variance: 1804.03
+
+Avg Latency (YOLO): 217.27 ms
+Accuracy (YOLO): 94.44%
+Movement Variance: 1738.35
+
+Avg Latency (YOLO): 217.04 ms
+Accuracy (YOLO): 94.64%
+Movement Variance: 1677.48
+
+Avg Latency (YOLO): 216.76 ms
+Accuracy (YOLO): 94.83%
+Movement Variance: 1621.75
+
+Avg Latency (YOLO): 216.81 ms
+Accuracy (YOLO): 93.33%
+Movement Variance: 1568.74
+
+Avg Latency (YOLO): 216.70 ms
+Accuracy (YOLO): 93.44%
+Movement Variance: 1543.38
+
+Avg Latency (YOLO): 216.49 ms
+Accuracy (YOLO): 93.55%
+Movement Variance: 1520.73
+
+Avg Latency (YOLO): 216.27 ms
+Accuracy (YOLO): 92.19%
+Movement Variance: 1475.35
+
+Avg Latency (YOLO): 215.75 ms
+Accuracy (YOLO): 91.04%
+Movement Variance: 1416.49
+
+Avg Latency (YOLO): 215.62 ms
+Accuracy (YOLO): 91.18%
+Movement Variance: 1396.51
+
+Avg Latency (YOLO): 215.25 ms
+Accuracy (YOLO): 91.55%
+Movement Variance: 1340.59
+
+Avg Latency (YOLO): 215.07 ms
+Accuracy (YOLO): 91.67%
+Movement Variance: 1324.12
+
+Avg Latency (YOLO): 214.95 ms
+Accuracy (YOLO): 91.89%
+Movement Variance: 1288.42
+
+Avg Latency (YOLO): 214.78 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 1273.23
+
+Avg Latency (YOLO): 214.94 ms
+Accuracy (YOLO): 92.11%
+Movement Variance: 1258.17
+
+Avg Latency (YOLO): 214.70 ms
+Accuracy (YOLO): 92.41%
+Movement Variance: 1212.16
+
+Avg Latency (YOLO): 214.65 ms
+Accuracy (YOLO): 92.50%
+Movement Variance: 1197.00
+
+Avg Latency (YOLO): 214.38 ms
+Accuracy (YOLO): 91.46%
+Movement Variance: 1170.48
+
+Avg Latency (YOLO): 214.37 ms
+Accuracy (YOLO): 91.57%
+Movement Variance: 1156.21
+
+Avg Latency (YOLO): 214.20 ms
+Accuracy (YOLO): 91.76%
+Movement Variance: 1130.52
+
+Avg Latency (YOLO): 214.23 ms
+Accuracy (YOLO): 91.86%
+Movement Variance: 1117.30
+
+Avg Latency (YOLO): 214.11 ms
+Accuracy (YOLO): 91.95%
+Movement Variance: 1105.54
+
+Avg Latency (YOLO): 214.03 ms
+Accuracy (YOLO): 92.05%
+Movement Variance: 1093.43
+
+Avg Latency (YOLO): 214.04 ms
+Accuracy (YOLO): 92.13%
+Movement Variance: 1081.01
+
+Avg Latency (YOLO): 214.01 ms
+Accuracy (YOLO): 92.22%
+Movement Variance: 1068.96
+
+Avg Latency (YOLO): 213.91 ms
+Accuracy (YOLO): 92.31%
+Movement Variance: 1058.00
+
+Avg Latency (YOLO): 213.85 ms
+Accuracy (YOLO): 92.39%
+Movement Variance: 1046.65
+
+Avg Latency (YOLO): 213.82 ms
+Accuracy (YOLO): 92.47%
+Movement Variance: 1035.37
+
+Avg Latency (YOLO): 213.82 ms
+Accuracy (YOLO): 92.55%
+Movement Variance: 1024.23
+
+Avg Latency (YOLO): 213.89 ms
+Accuracy (YOLO): 92.63%
+Movement Variance: 1013.86
+
+Avg Latency (YOLO): 213.81 ms
+Accuracy (YOLO): 92.71%
+Movement Variance: 1003.86
+
+Avg Latency (YOLO): 213.76 ms
+Accuracy (YOLO): 92.78%
+Movement Variance: 993.65
+
+Avg Latency (YOLO): 213.72 ms
+Accuracy (YOLO): 92.86%
+Movement Variance: 983.54
+
+Avg Latency (YOLO): 213.71 ms
+Accuracy (YOLO): 92.93%
+Movement Variance: 973.51
+
+Avg Latency (YOLO): 213.83 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 964.93
+
+Avg Latency (YOLO): 210.86 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 72.53
+
+Avg Latency (YOLO): 211.28 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 85.94
+
+Avg Latency (YOLO): 211.36 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 86.68
+
+Avg Latency (YOLO): 211.50 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 86.14
+
+Avg Latency (YOLO): 211.62 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 84.54
+
+Avg Latency (YOLO): 211.55 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 84.99
+
+Avg Latency (YOLO): 212.34 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 124.09
+
+Avg Latency (YOLO): 212.34 ms
+Accuracy (YOLO): 90.00%
+Movement Variance: 124.09
+
+Avg Latency (YOLO): 212.74 ms
+Accuracy (YOLO): 90.00%
+Movement Variance: 127.72
+
+Avg Latency (YOLO): 212.76 ms
+Accuracy (YOLO): 90.00%
+Movement Variance: 127.52
+
+Avg Latency (YOLO): 212.80 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 126.82
+
+Avg Latency (YOLO): 212.73 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 128.71
+
+Avg Latency (YOLO): 212.73 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 128.71
+
+Avg Latency (YOLO): 212.83 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 129.94
+
+Avg Latency (YOLO): 213.52 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 153.88
+
+Avg Latency (YOLO): 213.83 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 157.45
+
+Avg Latency (YOLO): 213.49 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 156.29
+
+Avg Latency (YOLO): 213.22 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 152.44
+
+Avg Latency (YOLO): 213.14 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 153.96
+
+Avg Latency (YOLO): 213.07 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 154.49
+
+Avg Latency (YOLO): 212.93 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 155.65
+
+Avg Latency (YOLO): 212.68 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 157.38
+
+Avg Latency (YOLO): 212.66 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 157.81
+
+Avg Latency (YOLO): 212.73 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 157.49
+
+Avg Latency (YOLO): 212.60 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 155.94
+
+Avg Latency (YOLO): 212.52 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 157.02
+
+Avg Latency (YOLO): 212.30 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 155.04
+
+Avg Latency (YOLO): 212.22 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 154.57
+
+Avg Latency (YOLO): 212.42 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 160.85
+
+Avg Latency (YOLO): 212.96 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 193.74
+
+Avg Latency (YOLO): 212.79 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 195.32
+
+Avg Latency (YOLO): 212.68 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 197.17
+
+Avg Latency (YOLO): 212.58 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 198.90
+
+Avg Latency (YOLO): 212.27 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 199.55
+
+Avg Latency (YOLO): 212.11 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 198.36
+
+Avg Latency (YOLO): 211.89 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 193.54
+
+Avg Latency (YOLO): 211.72 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 193.34
+
+Avg Latency (YOLO): 211.70 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 193.38
+
+Avg Latency (YOLO): 211.71 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 193.30
+
+Avg Latency (YOLO): 211.64 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 193.47
+
+Avg Latency (YOLO): 211.55 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 194.91
+
+Avg Latency (YOLO): 211.58 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 194.84
+
+Avg Latency (YOLO): 211.55 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 195.18
+
+Avg Latency (YOLO): 211.54 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 194.98
+
+Avg Latency (YOLO): 211.51 ms
+Accuracy (YOLO): 90.00%
+Movement Variance: 195.49
+
+Avg Latency (YOLO): 211.48 ms
+Accuracy (YOLO): 90.00%
+Movement Variance: 195.92
+
+Avg Latency (YOLO): 211.31 ms
+Accuracy (YOLO): 90.00%
+Movement Variance: 197.29
+
+Avg Latency (YOLO): 211.44 ms
+Accuracy (YOLO): 90.00%
+Movement Variance: 197.05
+
+Avg Latency (YOLO): 211.39 ms
+Accuracy (YOLO): 90.00%
+Movement Variance: 197.06
+
+Avg Latency (YOLO): 211.17 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 195.46
+
+Avg Latency (YOLO): 211.22 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 195.59
+
+Avg Latency (YOLO): 211.73 ms
+Accuracy (YOLO): 91.00%
+Movement Variance: 214.02
+
+Avg Latency (YOLO): 211.75 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 213.66
+
+Avg Latency (YOLO): 211.75 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 213.67
+
+Avg Latency (YOLO): 211.61 ms
+Accuracy (YOLO): 93.00%
+Movement Variance: 215.01
+
+Avg Latency (YOLO): 211.80 ms
+Accuracy (YOLO): 93.00%
+Movement Variance: 215.27
+
+Avg Latency (YOLO): 211.90 ms
+Accuracy (YOLO): 93.00%
+Movement Variance: 213.26
+
+Avg Latency (YOLO): 211.82 ms
+Accuracy (YOLO): 93.00%
+Movement Variance: 214.57
+
+Avg Latency (YOLO): 252.92 ms
+Accuracy (YOLO): 92.00%
+Movement Variance: 122258.85
+
